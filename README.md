@@ -1,3 +1,3 @@
 # Cocoa clone project 2021 - nomad coder
 
-CSS got so much better!
+CSS & HTML got so much better!
